@@ -1,3 +1,48 @@
+
+
+[React Icons](http://gorangajic.github.io/react-icons/fa.html)
+yarn add react-icons
+
+[Bootstrap4 getting started](https://v4-alpha.getbootstrap.com/getting-started)
+
+986  yarn create react-app my-react-bootstrap4
+987  ls
+988  cd my-react-bootstrap4/
+989  pwd
+990  git init
+991  git add README.md
+992  git commit -m "first commit"
+993  git remote add origin https://github.com/shawfire/my-react-bootstrap4.git
+994  git push -u origin master
+995  yarn start
+996  yarn add react-icons
+997  history
+998  yarn start
+999  git add -A
+1000  git status
+1001  history
+1003  git commit -m 'React stateless functional component - static html.'
+1004  history
+1005  git push -u origin master
+1006  yarn start
+1007  yarn start
+1008  history
+1010  git commit -m "React stateless functional component - passing a single prop"
+1011  git status
+1012  git add -A
+1013  git commit -m "React stateless functional component - passing a single prop"
+1014  history
+1015  git push -u origin master
+1016  yarn start
+1017  history
+1018  git add -A
+1019  git status
+1020  git commit -m "React stateless functional component - passing children prop"
+1021  git status
+1022  git push -u origin master
+1023  yarn start
+1024  history
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
