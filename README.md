@@ -4,7 +4,7 @@
 yarn add react-icons
 
 [Bootstrap4 getting started](https://v4-alpha.getbootstrap.com/getting-started)
-
+```
 986  yarn create react-app my-react-bootstrap4
 987  ls
 988  cd my-react-bootstrap4/
@@ -42,7 +42,7 @@ yarn add react-icons
 1022  git push -u origin master
 1023  yarn start
 1024  history
-
+```
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
