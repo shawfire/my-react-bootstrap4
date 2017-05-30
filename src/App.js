@@ -7,8 +7,19 @@ class App extends Component {
   render() {
     return (
       <div>
-        <Alert />
-        <Alert alertType="danger"/>
+
+        <Alert>
+          <strong>Default Info!</strong> You successfully read this important alert message.
+        </Alert>
+
+        <Alert alertType="danger">
+          <strong>Danger Alert!</strong> You successfully read this important alert message.
+        </Alert>
+
+        <Alert alertType="warning">
+          <strong>Warning!</strong> You successfully read this important alert message.
+        </Alert>
+
       </div>
     );
   }
